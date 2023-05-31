@@ -1,0 +1,27 @@
+[
+    {
+        "studio": "Santa Monica Studio",
+        "name": "God of War: Ragnarok",
+        "price": 349.9
+    },
+    {
+        "studio": "Guerrilla Games",
+        "name": "Horizon: Forbiden West",
+        "price": 299.9
+    },
+    {
+        "studio": "Nintendo",
+        "name": "The Legend of Zelda: Tears of the Kingdom",
+        "price": 399.9
+    },
+    {
+        "studio": "FromSoftware",
+        "name": "Elden Ring",
+        "price": 299.9
+    },
+    {
+        "studio": "CD Projekt RED",
+        "name": "The Witcher 3",
+        "price": 164.9
+    }
+]
